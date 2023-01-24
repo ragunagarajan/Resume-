@@ -1,0 +1,16 @@
+.img1{
+height:88px; width:90px; alt:men image;
+}
+.center{
+	background-color:black; 
+	text-align:center;
+	color:white;
+}
+button{
+	cursor:pointer;
+	padding:12px;
+}
+body{
+	background-image:url("../images/background.jpg");
+	width:100%;
+	}
